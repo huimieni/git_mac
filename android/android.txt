@@ -1,3 +1,9 @@
-dalvik
-art
+android learning start
+about：
+	base
+	framework
+	source for App UI Lib 
+ 	other so build and use
+play：
+	Xposed used
 
